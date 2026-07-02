@@ -62,15 +62,3 @@ The largest chess platform in Costa Rica. Tournament management, national & FIDE
 Document automation platform for legal teams — connects client intake forms with Word templates to generate ready-to-review documents automatically.
 
 `Next.js` `React` `TypeScript` `.NET` `SQL Server` `Azure`
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Jorge's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Al3xEz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Al3xEz&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
